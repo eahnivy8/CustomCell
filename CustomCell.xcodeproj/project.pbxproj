@@ -12,6 +12,22 @@
 		1EBA17A72330915A00FDBC01 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17A52330915A00FDBC01 /* Main.storyboard */; };
 		1EBA17A92330915B00FDBC01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17A82330915B00FDBC01 /* Assets.xcassets */; };
 		1EBA17AC2330915B00FDBC01 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17AA2330915B00FDBC01 /* LaunchScreen.storyboard */; };
+		1EBA17C22330955D00FDBC01 /* kiwi.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17B42330955C00FDBC01 /* kiwi.png */; };
+		1EBA17C32330955D00FDBC01 /* cherry.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17B52330955C00FDBC01 /* cherry.png */; };
+		1EBA17C42330955D00FDBC01 /* apple.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17B62330955C00FDBC01 /* apple.jpeg */; };
+		1EBA17C52330955D00FDBC01 /* blueberry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17B72330955C00FDBC01 /* blueberry.jpg */; };
+		1EBA17C62330955D00FDBC01 /* meat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17B82330955C00FDBC01 /* meat.jpg */; };
+		1EBA17C72330955D00FDBC01 /* carrot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17B92330955C00FDBC01 /* carrot.jpg */; };
+		1EBA17C82330955D00FDBC01 /* tomato.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17BA2330955C00FDBC01 /* tomato.png */; };
+		1EBA17C92330955D00FDBC01 /* watermelon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17BB2330955C00FDBC01 /* watermelon.png */; };
+		1EBA17CA2330955D00FDBC01 /* strawberry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17BC2330955C00FDBC01 /* strawberry.jpg */; };
+		1EBA17CB2330955D00FDBC01 /* vegetable.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17BD2330955C00FDBC01 /* vegetable.jpg */; };
+		1EBA17CC2330955D00FDBC01 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17BE2330955D00FDBC01 /* background.jpg */; };
+		1EBA17CD2330955D00FDBC01 /* lemon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17BF2330955D00FDBC01 /* lemon.png */; };
+		1EBA17CE2330955D00FDBC01 /* lime.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17C02330955D00FDBC01 /* lime.jpg */; };
+		1EBA17CF2330955D00FDBC01 /* grape.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA17C12330955D00FDBC01 /* grape.jpg */; };
+		1EBA17D12330986E00FDBC01 /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EBA17D02330986E00FDBC01 /* MyTableViewCell.swift */; };
+		1EBA17D323309D9C00FDBC01 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EBA17D223309D9C00FDBC01 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +38,22 @@
 		1EBA17A82330915B00FDBC01 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1EBA17AB2330915B00FDBC01 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1EBA17AD2330915B00FDBC01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1EBA17B42330955C00FDBC01 /* kiwi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kiwi.png; sourceTree = "<group>"; };
+		1EBA17B52330955C00FDBC01 /* cherry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cherry.png; sourceTree = "<group>"; };
+		1EBA17B62330955C00FDBC01 /* apple.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = apple.jpeg; sourceTree = "<group>"; };
+		1EBA17B72330955C00FDBC01 /* blueberry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blueberry.jpg; sourceTree = "<group>"; };
+		1EBA17B82330955C00FDBC01 /* meat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meat.jpg; sourceTree = "<group>"; };
+		1EBA17B92330955C00FDBC01 /* carrot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = carrot.jpg; sourceTree = "<group>"; };
+		1EBA17BA2330955C00FDBC01 /* tomato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tomato.png; sourceTree = "<group>"; };
+		1EBA17BB2330955C00FDBC01 /* watermelon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = watermelon.png; sourceTree = "<group>"; };
+		1EBA17BC2330955C00FDBC01 /* strawberry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = strawberry.jpg; sourceTree = "<group>"; };
+		1EBA17BD2330955C00FDBC01 /* vegetable.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vegetable.jpg; sourceTree = "<group>"; };
+		1EBA17BE2330955D00FDBC01 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+		1EBA17BF2330955D00FDBC01 /* lemon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lemon.png; sourceTree = "<group>"; };
+		1EBA17C02330955D00FDBC01 /* lime.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lime.jpg; sourceTree = "<group>"; };
+		1EBA17C12330955D00FDBC01 /* grape.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = grape.jpg; sourceTree = "<group>"; };
+		1EBA17D02330986E00FDBC01 /* MyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
+		1EBA17D223309D9C00FDBC01 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +86,38 @@
 		1EBA17A02330915A00FDBC01 /* CustomCell */ = {
 			isa = PBXGroup;
 			children = (
+				1EBA17B32330916A00FDBC01 /* Resources */,
 				1EBA17A12330915A00FDBC01 /* AppDelegate.swift */,
+				1EBA17D223309D9C00FDBC01 /* DetailViewController.swift */,
 				1EBA17A32330915A00FDBC01 /* ViewController.swift */,
 				1EBA17A52330915A00FDBC01 /* Main.storyboard */,
 				1EBA17A82330915B00FDBC01 /* Assets.xcassets */,
 				1EBA17AA2330915B00FDBC01 /* LaunchScreen.storyboard */,
 				1EBA17AD2330915B00FDBC01 /* Info.plist */,
+				1EBA17D02330986E00FDBC01 /* MyTableViewCell.swift */,
 			);
 			path = CustomCell;
+			sourceTree = "<group>";
+		};
+		1EBA17B32330916A00FDBC01 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1EBA17B62330955C00FDBC01 /* apple.jpeg */,
+				1EBA17BE2330955D00FDBC01 /* background.jpg */,
+				1EBA17B72330955C00FDBC01 /* blueberry.jpg */,
+				1EBA17B92330955C00FDBC01 /* carrot.jpg */,
+				1EBA17B52330955C00FDBC01 /* cherry.png */,
+				1EBA17C12330955D00FDBC01 /* grape.jpg */,
+				1EBA17B42330955C00FDBC01 /* kiwi.png */,
+				1EBA17BF2330955D00FDBC01 /* lemon.png */,
+				1EBA17C02330955D00FDBC01 /* lime.jpg */,
+				1EBA17B82330955C00FDBC01 /* meat.jpg */,
+				1EBA17BC2330955C00FDBC01 /* strawberry.jpg */,
+				1EBA17BA2330955C00FDBC01 /* tomato.png */,
+				1EBA17BD2330955C00FDBC01 /* vegetable.jpg */,
+				1EBA17BB2330955C00FDBC01 /* watermelon.png */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,7 +180,21 @@
 			files = (
 				1EBA17AC2330915B00FDBC01 /* LaunchScreen.storyboard in Resources */,
 				1EBA17A92330915B00FDBC01 /* Assets.xcassets in Resources */,
+				1EBA17CD2330955D00FDBC01 /* lemon.png in Resources */,
+				1EBA17C52330955D00FDBC01 /* blueberry.jpg in Resources */,
 				1EBA17A72330915A00FDBC01 /* Main.storyboard in Resources */,
+				1EBA17C72330955D00FDBC01 /* carrot.jpg in Resources */,
+				1EBA17C82330955D00FDBC01 /* tomato.png in Resources */,
+				1EBA17C22330955D00FDBC01 /* kiwi.png in Resources */,
+				1EBA17C42330955D00FDBC01 /* apple.jpeg in Resources */,
+				1EBA17C92330955D00FDBC01 /* watermelon.png in Resources */,
+				1EBA17CC2330955D00FDBC01 /* background.jpg in Resources */,
+				1EBA17C62330955D00FDBC01 /* meat.jpg in Resources */,
+				1EBA17CA2330955D00FDBC01 /* strawberry.jpg in Resources */,
+				1EBA17CF2330955D00FDBC01 /* grape.jpg in Resources */,
+				1EBA17CB2330955D00FDBC01 /* vegetable.jpg in Resources */,
+				1EBA17CE2330955D00FDBC01 /* lime.jpg in Resources */,
+				1EBA17C32330955D00FDBC01 /* cherry.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +207,8 @@
 			files = (
 				1EBA17A42330915A00FDBC01 /* ViewController.swift in Sources */,
 				1EBA17A22330915A00FDBC01 /* AppDelegate.swift in Sources */,
+				1EBA17D12330986E00FDBC01 /* MyTableViewCell.swift in Sources */,
+				1EBA17D323309D9C00FDBC01 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
